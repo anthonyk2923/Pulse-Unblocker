@@ -11,13 +11,13 @@
 
 * {
     font-family: Roboto;
-    background-color: red;
+    background-color: greenyellow;
 
 }
 
 body {
     margin: 0;
-    background-color: red;
+    background-color: greenyellow;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
